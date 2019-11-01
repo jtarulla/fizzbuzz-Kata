@@ -1,2 +1,2 @@
-# fizzbuzz-Kata
-FizzBuzz kata 
+# Fizzbuzz-Kata
+FizzBuzz kata yellow-belt solution with Python.
